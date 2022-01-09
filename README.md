@@ -1,6 +1,6 @@
 # Little-Psycho Linux
-    # The more silent
-          # The more dangerous
+     The more silent
+           The more dangerous
 
 It is maintained and established in 2021 by Hossein Seilani, the developer of Emperor-os and predator-os Linux.  
 This is lightweight Linux with a KDE plasma-desktop, based on the Ubuntu mini 20.04 LTS and equipped kernel 5.10 LTS and 5.8.
@@ -111,18 +111,18 @@ A good system administrator can do wonders with the built-in monitoring tools th
 
 <img src="https://github.com/hosseinseilani/little-psycho/blob/main/Tools/user-controling-tools.JPG">
 
-
+[direct download link] https://predator-os.com/psycho/little-psycho-20.04-LTS.iso
  
  
 # contact us:
 * (www.predator-os.com)
 * (Info.predator.os@gmail.com)
-[site link](http://t.me/UNIDENTIFIED_TM)
-[site link](http://t.me/predator_os)
-[site link](https://twitter.com/hosseinseilany?lang=en)
-[site link](predator-os@protonmail.com)
-[site link](https://github.com/hosseinseilani)
-[site link](https://www.instagram.com/predator.os/)
-[site link](https://www.youtube.com/watch?v=QdvSMBzoNx8)
+* (http://t.me/UNIDENTIFIED_TM)
+* (http://t.me/predator_os)
+* (https://twitter.com/hosseinseilany?lang=en)
+* (predator-os@protonmail.com)
+* (https://github.com/hosseinseilani)
+* (https://www.instagram.com/predator.os/)
+* (https://www.youtube.com/watch?v=QdvSMBzoNx8)
 
 
