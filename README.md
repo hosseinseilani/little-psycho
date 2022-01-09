@@ -11,9 +11,9 @@ This is lightweight Linux with a KDE plasma-desktop, based on the Ubuntu mini 20
 
 Little-Psycho has a focus on destructive and stress testing of both software and hardware and also included the overclocking and health testing tools.  These tools and commands impose much stress on the system and measure the performance of the system.
 
-[Website link]( https://predator-os.com)
-[Gallery link](  https://predator-os.com/psycho/portfolio_dark.html)
-[Tools]( https://predator-os.com/psycho/Little-Psycho-Tools.html)
+* [Website link]( https://predator-os.com)
+* [Gallery link](  https://predator-os.com/psycho/portfolio_dark.html)
+* [Tools]( https://predator-os.com/psycho/Little-Psycho-Tools.html)
 
 # Cover
  <img src="https://github.com/hosseinseilani/emperor-os/blob/master/screenshots/xfce%20desktop.PNG">
