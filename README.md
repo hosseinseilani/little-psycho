@@ -1,5 +1,5 @@
 # little-psycho
-[site link](https://predator-os.com/)
+[web site link](https://predator-os.com/)
 
 
 #Little-Psycho Linux
