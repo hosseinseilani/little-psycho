@@ -56,7 +56,9 @@ Scans all devices connected to the system, and tries to mount them, creating mou
 Warning: After configured, this program allows ordinary users to mount external file systems. automatically mounts USB mass storage devices (typically USB pens)
 
  # Mounting tools list
- <img src="https://github.com/hosseinseilani/emperor-os/blob/master/screenshots/xfce%20desktop.PNG">
+ <img src="https://github.com/hosseinseilani/little-psycho/blob/main/Tools/Mounting-Tools.JPG">
+ 
+ 
  
 # contact us:
 [site link](www.predator-os.com)
