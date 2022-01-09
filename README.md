@@ -111,7 +111,7 @@ A good system administrator can do wonders with the built-in monitoring tools th
 
 <img src="https://github.com/hosseinseilani/little-psycho/blob/main/Tools/user-controling-tools.JPG">
 
-[direct download link] https://predator-os.com/psycho/little-psycho-20.04-LTS.iso
+[direct download link] (https://predator-os.com/psycho/little-psycho-20.04-LTS.iso)
  
  
 # contact us:
