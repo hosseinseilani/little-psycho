@@ -9,14 +9,14 @@
 It is maintained and established in 2021 by Hossein Seilani, the developer of Emperor-os and predator-os Linux.  
 This is lightweight Linux with a KDE plasma-desktop, based on the Ubuntu mini 20.04 LTS and equipped kernel 5.10 LTS and 5.8.
 
-Little-Psycho has a focus on destructive and stress testing of both software and hardware and also included the overclocking and health testing tools.  These tools and commands impose much stress on the system and measure the performance of the system.
+Little-Psycho has a focus on destructive and stress testing of both software and hardware and also included the overclocking and health testing tools. These tools and commands impose much stress on the system and measure the performance of the system.
 
 * [Website link]( https://predator-os.com)
 * [Gallery link](  https://predator-os.com/psycho/portfolio_dark.html)
 * [Tools]( https://predator-os.com/psycho/Little-Psycho-Tools.html)
 
 # Cover
- <img src="https://github.com/hosseinseilani/emperor-os/blob/master/screenshots/xfce%20desktop.PNG">
+ <img src="https://github.com/hosseinseilani/little-psycho/blob/main/background-image-red.jpg">
  
 # Features:
 1) Just Live CD, KDE plasma desktop environment
