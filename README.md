@@ -4,6 +4,7 @@
 
 It is maintained and established in 2021 by Hossein Seilani, the developer of Emperor-os and predator-os Linux.  
 This is lightweight Linux with a KDE plasma-desktop, based on the Ubuntu mini 20.04 LTS and equipped kernel 5.10 LTS and 5.8.
+
 Little-Psycho, a KDE based distro with a focus on destructive stress testing of both HW and SW.  Includes overclocking and system health monitoring tools.  The tools and commands can assess the performance of a system and serve as a 'burn in' benchmark.
 
 * [Website link]( https://predator-os.com)
