@@ -116,7 +116,7 @@ A good system administrator can do wonders with the built-in monitoring tools th
 [Download link] (https://predator-os.ir/little-psycho-linux/)
 
  <img src="https://github.com/hosseinseilani/little-psycho/blob/main/solgan1.JPG">
- <img src="https://github.com/hosseinseilani/little-psycho/blob/main/solgan2.JPG">
+ <img src="https://github.com/hosseinseilani/little-psycho/blob/main/solgan2.png">
  
 # contact us:
 * (www.predator-os.com)
