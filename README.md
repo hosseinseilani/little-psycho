@@ -5,14 +5,13 @@
 It is maintained and established in 2021 by Hossein Seilani, the developer of Emperor-os and predator-os Linux.  
 This is lightweight Linux with a KDE plasma-desktop, based on the Ubuntu mini 20.04 LTS and equipped kernel 5.10 LTS and 5.8.
 
-Little-Psycho, a KDE based distro with a focus on destructive stress testing of both HW and SW.  Includes overclocking and system health monitoring tools.  The tools and commands can assess the performance of a system and serve as a 'burn in' benchmark.
+Little-Psycho, a KDE based distro with a focus on ** destructive stress testing ** of both HW and SW.  Includes overclocking and system health monitoring tools.  The tools and commands can assess the performance of a system and serve as a 'burn in' benchmark.
 
-* [Website link]( https://predator-os.com)
-* [Gallery link](  https://predator-os.com/psycho/portfolio_dark.html)
-* [Tools]( https://predator-os.com/psycho/Little-Psycho-Tools.html)
+* [Website link]( https://predator-os.ir/little-psycho-linux/)
 
-# Cover
- <img src="https://github.com/hosseinseilani/little-psycho/blob/main/background-image-red.jpg">
+
+# Background
+ <img src="https://github.com/hosseinseilani/little-psycho/blob/main/background.png">
  
 # Features:
 1) Just Live CD, KDE plasma desktop environment
@@ -26,6 +25,8 @@ Little-Psycho, a KDE based distro with a focus on destructive stress testing of 
 9) included firmware used by Linux kernel drivers.
 10) slim jet: Fast, smart, and powerful browser-based on Blink
 11) included 130 special Tools in destructive and stress testing
+
+ <img src="https://github.com/hosseinseilani/little-psycho/blob/main/logo.JPG">
 
 As a system administrator, you can examine and monitor the status of your Linux systems when they are under stress of high load. In this guide, we shall look at some special and important tools for destroying and stress testing under your Linux systems.
 Little-Psycho will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer, as well as the various operating system kernel interfaces.
@@ -82,7 +83,7 @@ it is a software suite used for hardware diagnostics, stress testing, certif
 
 <img src="https://github.com/hosseinseilani/little-psycho/blob/main/Tools/Hardware-testing-tools.JPG">
 
-# stress Testing  Tools
+# Stress Testing  Tools
 some tools designed to subject your system to a configurable measure of CPU, memory, I/O and disk stress. As a System Administrator, you may want to examine and monitor the status of your Linux systems when they are under stress of high load and will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
 
 <img src="https://github.com/hosseinseilani/little-psycho/blob/main/Tools/Stress-testing-tools.JPG">
@@ -112,8 +113,10 @@ A good system administrator can do wonders with the built-in monitoring tools th
 
 <img src="https://github.com/hosseinseilani/little-psycho/blob/main/Tools/user-controling-tools.JPG">
 
-[direct download link] (https://predator-os.com/psycho/little-psycho-20.04-LTS.iso)
- 
+[Download link] (https://predator-os.ir/little-psycho-linux/)
+
+ <img src="https://github.com/hosseinseilani/little-psycho/blob/main/solgan1.JPG">
+ <img src="https://github.com/hosseinseilani/little-psycho/blob/main/solgan2.JPG">
  
 # contact us:
 * (www.predator-os.com)
@@ -127,3 +130,8 @@ A good system administrator can do wonders with the built-in monitoring tools th
 * (https://www.youtube.com/watch?v=QdvSMBzoNx8)
 
 
+ # Host and Domain sponsored By:
+  
+<img src="https://github.com/hosseinseilani/predator-os/blob/main/logo_square.png">
+Providing Linux hosting services, selling SSL certificates, registering and transferring domains and hosting.
+ [site link](https://www.netafraz.com)
