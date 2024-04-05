@@ -7,24 +7,31 @@ This is lightweight Linux with a KDE plasma-desktop, based on the Ubuntu mini 20
 
 Little-Psycho, a KDE based distro with a focus on ** destructive stress testing ** of both HW and SW.  Includes overclocking and system health monitoring tools.  The tools and commands can assess the performance of a system and serve as a 'burn in' benchmark.
 
-* [Website link]((https://little-psycho.ir)
+* [Download link]((https://little-psycho.ir)
+
+# Donate inside Iran:
+https://zarinp.al/learninghive.ir
+
+# Donate outside Iran:
+<img src="https://github.com/hosseinseilani/little-psycho/blob/main/ethereum.JPG">
+0xd15e9222ee44349DabFae6F61dD7382617e7A563
 
 
 # Background
  <img src="https://github.com/hosseinseilani/little-psycho/blob/main/background.png">
  
 # Features:
-1) Just Live CD, KDE plasma desktop environment
-2) Included Kernel 5.10 LTS
-3) login without the user account password
-4)  category: Destructive, Live Medium, Stress testing
+1) Both Live and installation KDE plasma desktop environment
+2) Included Kernel 6.1 and 6.6 LTS
+3) Included user account password policy
+4) Category: Destructive, Live Medium, Stress testing, Recovering 
 5) Based on Ubuntu mini LTS, 64 bit 
-6)Origin: predator-os and emperor-os team
+6) Origin: predator-os and emperor-os team
 7) package manager: apt, Synaptic, discover, aptitude
-8) lightweight and lossless driver: no sound, no webcam, no printer drivers
-9) included firmware used by Linux kernel drivers.
-10) slim jet: Fast, smart, and powerful browser-based on Blink
-11) included 130 special Tools in destructive and stress testing
+8) Included Essentially Desktop apps
+9) Included firmware used by Linux kernel drivers.
+10) Included special Menu to acceess the tools
+11) Included 180 special Tools in destructive, stress testing and wipe data
 
  <img src="https://github.com/hosseinseilani/little-psycho/blob/main/logo.JPG">
 
