@@ -7,7 +7,7 @@ This is lightweight Linux with a KDE plasma-desktop, based on the Ubuntu mini 20
 
 Little-Psycho, a KDE based distro with a focus on ** destructive stress testing ** of both HW and SW.  Includes overclocking and system health monitoring tools.  The tools and commands can assess the performance of a system and serve as a 'burn in' benchmark.
 
-* [Website link]( https://predator-os.ir/little-psycho-linux/)
+* [Website link]((https://little-psycho.ir)
 
 
 # Background
