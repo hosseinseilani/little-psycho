@@ -17,6 +17,10 @@ https://zarinp.al/learninghive.ir
 0xd15e9222ee44349DabFae6F61dD7382617e7A563
 
 
+## Default username and password for all iso files: 
+Username= user
+Password = user
+
 # Background
  <img src="https://github.com/hosseinseilani/little-psycho/blob/main/background.png">
  
